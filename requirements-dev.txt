@@ -4,6 +4,6 @@ pexpect==4.6.0
 coverage==4.5.1
 pytest==3.9.3
 pytest-cov==2.6.0
-python-coveralls
+python-coveralls==2.9.1
 mock
 flake8
