@@ -1,7 +1,7 @@
 # matplotlib
 # numpy
 pexpect==4.6.0
-coverage
+coverage==4.5.1
 pytest
 pytest-cov
 python-coveralls
