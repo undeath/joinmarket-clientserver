@@ -1,6 +1,6 @@
 # matplotlib
 # numpy
-pexpect
+pexpect==4.6.0
 coverage
 pytest
 pytest-cov
